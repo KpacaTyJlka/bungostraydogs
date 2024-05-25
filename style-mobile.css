@@ -1,0 +1,86 @@
+@media (max-width: 600px) {
+    .vip {
+        padding: 0 20px;
+        font-size: 20px;
+        text-align: justify;
+        text-indent: 20px;
+    }
+
+    h1 {
+        margin: 0;
+        padding: 20px;
+        font-size: 24px;
+    }
+
+    h3 {
+        padding: 0 20px;
+        margin: 0;
+    }
+
+    li {
+        font-size: 30px;
+    }
+
+    li a {
+        font-size: 30px;
+    }
+
+    footer {
+        padding: 20px;
+    }
+
+    .pica {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .bam {
+        margin: 20px;
+    }
+
+    .bam1 {
+        margin: 20px;
+    }
+
+    .bam2 {
+        margin: 20px;
+    }
+
+    .bam3 {
+        margin: 20px;
+    }
+
+    .bam4 {
+        margin: 20px;
+    }
+
+    .bam5 {
+        margin: 20px;
+    }
+
+    .YouTube {
+        margin: 20px;
+    }
+
+    .meme {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .video {
+        width: 100%; 
+    }
+
+    .team {
+        gap: 20px;
+    }
+
+    .team.pics {
+        gap: 0;
+    }
+
+    .pic {
+        margin: 20px;
+    }
+}

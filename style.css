@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Grape+Nuts&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+
+h1{
+    color: goldenrod;
+    background-color: blanchedalmond;
+    font-size: 60px;
+    font-family: Caveat;
+    text-align: center;
+    border-radius: 16px;
+}
+
+
+h2{
+    color:goldenrod;
+    font-size: 40px;
+    font-family: Caveat;
+    text-align: center;
+
+}
+
+.vip{
+    font-size: 35px;
+    color:goldenrod ;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+h3{
+    font-size: 50px;
+    color:goldenrod ;
+    font-family: 'Caveat';
+}
+
+li a{
+    font-size: 40px ;
+    color:goldenrod ;
+}
+
+li {
+    font-size: 40px ;
+    color: rgb(189, 123, 0);
+}
+
+.person{
+    font-size: 26px;
+    color:goldenrod ;
+}
+
+.pic {
+    text-align: center;  
+}
+
+.pic img {
+    height: 350px;
+}
+
+.team {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.team.pics  {
+    gap: 50px;
+}
+
+.team.pics .pic img {
+    height: 350px;
+    width: 350px;
+}
+
+footer{
+    font-size: 30px;
+    color:goldenrod;
+    text-align: center;
+    padding: 40px;
+    background-color:blanchedalmond ;
+    border-radius: 16px;
+    border: 9px solid rgb(224, 150, 39);
+    margin: 20px;
+
+}
+
+.divach{
+    border: 8px solid rgb(224, 150, 39);
+    padding: 5px;
+    border-radius: 16px;
+}
+
+.meme{
+    color: rgb(24, 53, 106);
+    font-family: "Dancing Script", cursive;
+    font-size: 30px;
+
+}
+
+.bam{
+    display: flex;
+    border: 8px solid rgb(14, 4, 55);
+    background-color: rgb(125, 125, 227);
+    margin: 50px;
+}
+
+
+.pic img{
+    transition: 1s;
+    display: block;
+}
+
+.pic img:hover{
+    transform: scale(1.2);
+}
+
+.pica {
+    display: flex;
+    align-items: center;
+}
+
+.pica p {
+    padding: 0 20px;
+}
+
+.pica img {
+    max-height: 350px;
+}
+
+.YouTube{
+    margin: 50px;
+    text-align: center;
+}
+
+.bam1{
+    border: 8px dashed rgb(12, 156, 132);
+    background-color: rgb(167, 231, 201);
+    margin: 50px;
+    padding: 20px;
+}
+
+.bam2{
+    border: 15px double rgb(252, 193, 1);
+    background-color: rgb(244, 253, 159);
+    margin: 50px;
+    padding: 20px;
+}
+
+.bam3{
+    border: 8px inset rgb(155, 17, 12);
+    background-color: rgb(207, 132, 132);
+    margin: 50px;
+    padding: 20px;
+}
+
+.bam4{
+    border: 8px dotted rgb(170, 49, 226);
+    background-color: rgb(225, 166, 233);
+    margin: 50px;
+    padding: 20px;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.first-page {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-img {
+    width: 100%;
+}
+
+.video {
+    width: 560px; 
+    height: 315px;
+}
